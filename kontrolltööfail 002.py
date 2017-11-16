@@ -7,7 +7,7 @@ for i in sõnad:
     # end if
 # end for
 
-#print ("sõnasi on:", word_count);
+print ("sõnasi on:", word_count);
 
 with open("kttekst.txt") as f:
     for line in f:
